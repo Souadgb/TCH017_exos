@@ -6,8 +6,8 @@
 
          BR      main       ;Branche au programme principal 
 
-msg1: .ASCII "Entrez le premier nombre: \x00" 
-msg2: .ASCII "Entrez le second nombre: \x00" 
+msg1:    .ASCII "Entrez le premier nombre: \x00" 
+msg2:    .ASCII "Entrez le second nombre: \x00" 
 msg3:    .ASCII "Le deuxième nombre est diviseur du premier \x00"   
 msg4:    .ASCII "Le deuxième nombre n'est pas diviseur du premier \x00" 
      
